@@ -1,0 +1,2 @@
+2025-06-20 22:19:59.349 | INFO     | services.book_tracker.main:create_book:15 - Adding book: title='1984' author='George Orwell'
+2025-06-20 22:20:43.773 | INFO     | services.book_tracker.main:create_book:15 - Adding book: title='1984' author='George Orwell'
